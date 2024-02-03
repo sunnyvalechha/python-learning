@@ -58,3 +58,4 @@ Where as in Python there is no need to declare the variable type. It is intellig
 
 
 
+
