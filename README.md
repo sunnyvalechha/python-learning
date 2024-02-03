@@ -22,4 +22,32 @@
 
 # Datatype in python
 
-Anything we provide as input to the programming language, datatype is allocating memory space to these inputs.
+Anything we provide as input to the programming language, datatype is allocating memory space to these inputs these inputs are objects like int, float, boolean.
+
+Data type memory Allocation:
+
+1 Byte = 8 Bits
+              DOS       UNIX
+* Int    -    2 Bytes  4 Bytes
+* Float  -    4 Bytes  8 Bytes
+* Double -    8 Bytes  16 Bytes
+* Char   -    1 Byte   1 Byte
+
+Because of above memory allocation we cannot run a code of DOS OS to another OS like UNIX. This is why C and C++ language is platform dependent.
+
+In Java programming memory allocation is same for all data types means Java is plaform independent.
+
+# Python is Dynamically typed High level Programming language.
+
+Generally we have 2 types of programming language.
+
+1. Statically typed
+2. Dynamically type
+
+In Statically typed Programming language, It is mandatory to specify the data type otherwise we will get compile time error.
+
+![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/23aaca87-322b-4192-a5df-59b17182bd46)
+
+
+
+
