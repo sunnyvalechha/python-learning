@@ -46,7 +46,14 @@ Generally we have 2 types of programming language.
 
 In Statically typed Programming language, It is mandatory to specify the data type otherwise we will get compile time error.
 
+Example: In C language we have to declare the variable type before specifying the value.
+
 ![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/23aaca87-322b-4192-a5df-59b17182bd46)
+
+Where as in Python there is no need to declare the variable type. It is intelligent enough to understand the data type automatically. *Python is dynamically typed programming langugage*
+
+![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/4a83abdc-c2dc-4101-8076-31c7019eacd2)
+
 
 
 
