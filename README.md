@@ -56,9 +56,16 @@ Where as in Python there is no need to declare the variable type. It is intellig
 
 # Data Representation in Python
 
+* Literal - Input values passing to the program, like Numeric, String, Boolean.
+
+  All literals are stored in a main memory, by allocating sufficient amount of memory by the help of data types.
+
 * In python we have to specify distinct value of variable so the system will not get confuse between the value. Ex: If we provide the same variable even with different value so the system will confuse.
 * Those distinct value we called as identifiers also called as **Variables**
 
+**Data Type in Python**
+
+![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/a9717e88-d370-49cf-8e21-d5e009c38368)
 
 
 
