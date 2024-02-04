@@ -54,6 +54,11 @@ Where as in Python there is no need to declare the variable type. It is intellig
 
 ![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/4a83abdc-c2dc-4101-8076-31c7019eacd2)
 
+# Data Representation in Python
+
+* In python we have to specify distinct value of variable so the system will not get confuse between the value. Ex: If we provide the same variable even with different value so the system will confuse.
+* Those distinct value we called as identifiers also called as **Variables**
+
 
 
 
