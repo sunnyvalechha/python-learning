@@ -1,6 +1,6 @@
 # python-learning
 
-* High Level Language: Humar interact in languages called as high level language.
+* High Level Language: Humans interact in languages called as high level language.
 
 * Low Level Language: Computer only understand binary language or digital signal called as Low level language.
 
