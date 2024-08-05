@@ -44,7 +44,7 @@ Generally we have 2 types of programming language.
 1. Statically typed
 2. Dynamically type
 
-In Statically typed Programming language, It is mandatory to specify the data type otherwise we will get compile time error.
+In Statically typed Programming language, It is mandatory to specify the data type otherwise we will get a compile time error.
 
 Example: In C language we have to declare the variable type before specifying the value.
 
@@ -72,15 +72,21 @@ Where as in Python there is no need to declare the variable type. It is intellig
 
 
 1. Numeric Data Type             - To store a single value (Immutable) Int, Float, Bool, Complex
-2. Sequence Category Data type   - To store sequence of values  { String, bytes, range (Immutable)  byte-array (mutable)
+2. Sequence Category Data type   - To store a sequence of values  { String, bytes, range (Immutable)  byte-array (mutable)
 3. List Category Data type       - list (mutable), tuple (immutable)
-4. Set Category Data type        - Unordered, does'nt allow duplicate members 
-5. Dictonary Category type       - Unordered, does'nt allow duplicate members
+4. Set Category Data type        - Unordered, doesn't allow duplicate members 
+5. Dictionary Category type       - Unordered, doesn't allow duplicate members
 6. None Data type                - No type / Not available
 
-Mutable: Can be modified or changable.
-Immutable: Cannot modified
+* Mutable:   Can be modified or changeable.
+* Immutable: Cannot modified
 
+**In-build data types in Python**
 
+type ()    # To check the type of the Variable
+
+id ()      # To get the memory address of Variable
+
+print ()   # To print the Value of the Variable
 
 
