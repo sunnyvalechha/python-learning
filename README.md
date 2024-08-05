@@ -65,8 +65,21 @@ Where as in Python there is no need to declare the variable type. It is intellig
 
 **Data Type in Python**
 
+* 6 categories in Data-type
+* 14 types of Data-type are available till python3
+
 ![image](https://github.com/sunnyvalechha/python-learning/assets/59471885/a9717e88-d370-49cf-8e21-d5e009c38368)
 
+
+1. Numeric Data Type             - To store a single value (Immutable) Int, Float, Bool, Complex
+2. Sequence Category Data type   - To store sequence of values  { String, bytes, range (Immutable)  byte-array (mutable)
+3. List Category Data type       - list (mutable), tuple (immutable)
+4. Set Category Data type        - Unordered, does'nt allow duplicate members 
+5. Dictonary Category type       - Unordered, does'nt allow duplicate members
+6. None Data type                - No type / Not available
+
+Mutable: Can be modified or changable.
+Immutable: Cannot modified
 
 
 
